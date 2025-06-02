@@ -1,0 +1,11 @@
+[theme]
+base = "light"
+
+[server]
+enableXsrfProtection = false
+
+[browser]
+gatherUsageStats = false
+
+[menuItems]
+hideGitHubButton = true
