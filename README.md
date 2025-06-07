@@ -49,5 +49,5 @@ The dataset includes thousands of MRI images, carefully preprocessed and split i
 ### Clone the repository
 
 ```bash
-git clone https://github.com/yourusername/Brain_tumourApp.git
+git clone https://github.com/himanshuranjandixit/Brain_tumourApp.git
 cd Brain_tumourApp
